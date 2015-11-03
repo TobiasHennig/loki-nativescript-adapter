@@ -11,6 +11,7 @@
 Run the following command from the `/app` directory of your project:
 
 ```
+$ npm install lokijs --save
 $ npm install loki-nativescript-adapter --save
 ```
 
