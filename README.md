@@ -2,7 +2,7 @@
 
 > A Loki Adapter for NativeScript apps.
 
-## What is a Loki
+## What is Loki
 
 > LokiJS is a document oriented database written in javascript, published under MIT License. Its purpose is to store javascript objects as documents in a nosql fashion and retrieve them with a similar mechanism. - [LokiJS](https://github.com/techfort/LokiJS)
 
