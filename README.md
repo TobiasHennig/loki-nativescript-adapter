@@ -1,6 +1,6 @@
-# Loki NativeScript Adapter
+# Loki NativeScript adapter
 
-> A Loki Adapter for NativeScript apps.
+> A Loki adapter for NativeScript apps.
 
 ## What is Loki
 
