@@ -6,6 +6,9 @@
 
 > LokiJS is a document oriented database written in javascript, published under MIT License. Its purpose is to store javascript objects as documents in a nosql fashion and retrieve them with a similar mechanism. - [LokiJS](https://github.com/techfort/LokiJS)
 
+## Demo
+Watch the example application on [YouTube](https://www.youtube.com/watch?v=EiVWoVq2tuk)
+
 ## Installation
 
 Run the following command from the `/app` directory of your project:
