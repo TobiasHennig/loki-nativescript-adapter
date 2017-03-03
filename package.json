@@ -2,7 +2,7 @@
   "name": "loki-nativescript-adapter",
   "version": "1.0.3",
   "description": "A Loki Adapter for NativeScript apps.",
-  "main": "loki-nativescript-adapter.js",
+  "main": "loki-nativescript-adapter",
   "keywords": [
     "NativeScript",
     "LokiJs",
